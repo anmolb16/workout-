@@ -1,2 +1,2 @@
-# workout-
+# workout
 Workout Mod
